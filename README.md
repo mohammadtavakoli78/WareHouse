@@ -1,4 +1,4 @@
-# WareHouse
+# <p align="center">WareHouse</p>
 
 # Table of Contents
 - [Introduction](https://github.com/mohammadtavakoli78/WareHouse/blob/master/README.md#introduction)
