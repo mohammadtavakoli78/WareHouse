@@ -1,6 +1,6 @@
 # WareHouse
 
-# Table of Contents (https://pages.github.com/mohammadtavakoli78/WareHouse)
+# Table of Contents
 - Introduction
 - Technologies
 - Setup
